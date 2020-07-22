@@ -1,6 +1,6 @@
 # Ultra_net : A FPGA-based Object Detection for the DAC-SDC 2020
 
-This is a repository for FPGA-based neural network inference. The design won first place in [the 56th IEEE/ACM Design Automation Conference System Design Contest (DAC-SDC)](http://https://dac-sdc-2020.groups.et.byu.net/doku.php).Designed by:
+This is a repository for FPGA-based neural network inference. The design won first place in [the 57th IEEE/ACM Design Automation Conference System Design Contest (DAC-SDC)](http://https://dac-sdc-2020.groups.et.byu.net/doku.php).Designed by:
 > BJUT_runner Group, Beijing University of Technology
 
 > Kang ZHAN, Junnan GUO, Bingyan SONG, Wenbo ZHANG*, Zhenshan BAO*
