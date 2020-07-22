@@ -29,7 +29,7 @@ device = 'cuda'
 
 model = mymodel.UltraNetQua()
 # # print(model)
-model.load_state_dict(torch.load('test_best.pt', map_location='cpu')['model'])
+model.load_state_dict(torch.load('ultranet_4w4a.pt', map_location='cpu')['model'])
 
 model = model.to(device)
 
