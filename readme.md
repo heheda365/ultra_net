@@ -5,7 +5,6 @@ This is a repository for FPGA-based neural network inference. The design won fir
 
 > Kang ZHAN, Junnan GUO, Bingyan SONG, Wenbo ZHANG*, Zhenshan BAO*
 
-> 1445157985@qq.com
 
 ![picture](pic/rank.jpg)
 The final rankings are published at https://dac-sdc-2020.groups.et.byu.net/doku.php?id=results
